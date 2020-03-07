@@ -1,0 +1,29 @@
+{
+  "comment": "lol data - loldata.json",
+  "data": [
+    {
+      "name": "亚托克斯",
+      "nickname": "暗裔剑魔"
+    },
+    {
+      "name": "阿狸",
+      "nickname": "九尾妖狐"
+    },
+    {
+      "name": "阿卡丽",
+      "nickname": "暗影之拳"
+    },
+    {
+      "name": "阿利斯塔",
+      "nickname": "牛头酋长"
+    },
+    {
+      "name": "阿木木",
+      "nickname": "殇之木乃伊"
+    },
+    {
+      "name": "艾尼维亚",
+      "nickname": "冰晶凤凰"
+    }
+  ]
+}
